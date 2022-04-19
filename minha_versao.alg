@@ -41,6 +41,6 @@ enquanto contador_aluno <= qtd_alunos faca
          contador_aluno <- contador_aluno + 1
 fimenquanto
 
-escreval ( " a melhor media é ", melhor_media)
+escreval ( " a melhor media é ", melhor_media, " do aluno ", melhor_nome)
 
 Fimalgoritmo
